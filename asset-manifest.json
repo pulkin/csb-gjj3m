@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://pulkin.github.io/csb-gjj3m/static/css/main.f581cb2e.chunk.css",
-    "main.js": "https://pulkin.github.io/csb-gjj3m/static/js/main.deb71aaa.chunk.js",
-    "main.js.map": "https://pulkin.github.io/csb-gjj3m/static/js/main.deb71aaa.chunk.js.map",
+    "main.css": "https://pulkin.github.io/csb-gjj3m/static/css/main.5fee4bc7.chunk.css",
+    "main.js": "https://pulkin.github.io/csb-gjj3m/static/js/main.c5a07245.chunk.js",
+    "main.js.map": "https://pulkin.github.io/csb-gjj3m/static/js/main.c5a07245.chunk.js.map",
     "runtime-main.js": "https://pulkin.github.io/csb-gjj3m/static/js/runtime-main.e8cc3ba8.js",
     "runtime-main.js.map": "https://pulkin.github.io/csb-gjj3m/static/js/runtime-main.e8cc3ba8.js.map",
     "static/js/2.f49562fd.chunk.js": "https://pulkin.github.io/csb-gjj3m/static/js/2.f49562fd.chunk.js",
     "static/js/2.f49562fd.chunk.js.map": "https://pulkin.github.io/csb-gjj3m/static/js/2.f49562fd.chunk.js.map",
     "index.html": "https://pulkin.github.io/csb-gjj3m/index.html",
-    "static/css/main.f581cb2e.chunk.css.map": "https://pulkin.github.io/csb-gjj3m/static/css/main.f581cb2e.chunk.css.map",
+    "static/css/main.5fee4bc7.chunk.css.map": "https://pulkin.github.io/csb-gjj3m/static/css/main.5fee4bc7.chunk.css.map",
     "static/js/2.f49562fd.chunk.js.LICENSE.txt": "https://pulkin.github.io/csb-gjj3m/static/js/2.f49562fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8cc3ba8.js",
     "static/js/2.f49562fd.chunk.js",
-    "static/css/main.f581cb2e.chunk.css",
-    "static/js/main.deb71aaa.chunk.js"
+    "static/css/main.5fee4bc7.chunk.css",
+    "static/js/main.c5a07245.chunk.js"
   ]
 }
